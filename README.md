@@ -1,5 +1,5 @@
 # 📚 Local Wikipedia RAG Assistant
-
+video link https://youtu.be/5KDF7mxbnIc
 A fully-local ChatGPT-style system that answers questions about famous people
 and famous places, using only resources running on your laptop:
 
